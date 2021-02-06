@@ -1,0 +1,35 @@
+Are you excited by the challenge of launching new business initiatives for Amazon in India which is one of the fastest growing Marketplace ? Have you wondered how Amazon ensures accurate financial reporting with millions of transactions happening per day in a Market which has some of the most complex legal and financial regulations !!
+
+India Consumer Business (ICB) Technology team builds products and services that solve unique needs of accounting and finance in Amazon’s fastest growing marketplace India and Emerging Markets. We are a multi-billion dollar business with a huge potential to grow in a trillion dollar market.
+The India Accounting Engineering team is responsible for building relevant systems & workflows that automates & simplifies the booking of Financial / Accounting events from all Amazon India and Emerging Market business launches. We own technology to automate and self-service Amazon.IN Finance processes. Our engineers work on a wide range of technologies (including AWS and EC2) and build and operate highly scalable across geographies with unique accounting and financial requirements. Typically the scope of Financial / Account event starts post the collection of money from transactions on / for Amazon. All platform systems that handles the collected money and account them at Amazon Internally will be part of the team’s scope.
+
+As a Software Development Engineer working in India Accounting Engineering Team, you will lead designing and building platforms that is configuration driven, self-service capable, to serve the fast growing needs of various businesses at Amazon. These systems play a critical role in enabling the business to launch on time, and handling real time business events and translate them into financial events that could then be persisted onto Financial Systems within Amazon.
+As an engineer here, you will be part of a team of high performing engineers to build, scale, monitor, and optimize the platforms that processes these business and financial events. You will interface with several teams including Fulfillment Services, Fees, Taxes, Retail Systems, Marketplace Systems, Invoicing Platform, Digital Systems, Amazon Web Services, Financial Systems, Accounting and Operations.
+
+A successful candidate will be a self-starter and fast learner with an established background in developing high volume and highly available services, strong technical ability, great communication skills, and a motivation to achieve results in a dynamic fast paced environment.
+
+A Successful Candidate Will Have
+
+BASIC QUALIFICATIONS
+Rich hands-on programming experience in Java or another object oriented language
+Proven track record building large-scale systems and solving complex problems
+Experience mentoring and developing the technical skills of Software Engineers
+Deep understanding of design-patterns and putting them to use in real-world scenarios
+Experience with service oriented technology
+Experience working with and building scalable systems
+Knowledge of AWS or other cloud platform
+Experience developing in a Linux environment
+Clear, professional communication skills able to contribute to team discussions, knowing when to contribute, when to listen, and when to ask questions.
+Preferred Qualifications
+Experience with one or more JavaScript Frameworks such as React or Angluar.
+Ability to convert a design document into a working user interface
+BS/MS in Computer Science or equivalent
+Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment
+Expertise in delivering high-quality, innovative application
+Strong desire to build, sense of ownership, urgency, and drive
+Excellent written communication and verbal agility are strong assets
+- Prior experience with building and supporting live high-volume transaction processing systems
+Familiarity with RDBMS
+XML, ion and Web Service concepts
+Agile development methodologies
+Familiarity with UNIX or Linux systems
