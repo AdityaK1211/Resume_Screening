@@ -47,5 +47,18 @@ Resume_Screening
 |_ text_process.py
 ```
 
+# Webpages
+#### Home Page
+<img src='screenshots/resume_screening_home.png'></img>
+
+#### Login Page
+<img src='screenshots/resume_screening_login.png'></img>
+
+#### Select Job Description and start Screening Page
+<img src='screenshots/resume_screening_screen.png'></img>
+
+#### Result Page
+<img src='screenshots/resume_screening_rank.png'></img>
+
 # Conclusion
 The main feature of the current project is that it searches the entire resume database to select and display the resumes which fit the best for the provided job description(JD). This is, in its current form, achieved by assigning a score to each CV by intelligently comparing them against the corresponding Job Description.
